@@ -49,12 +49,12 @@ Markdown is often used to document code.  Consequently, it supports embedding co
 
 ***Q4. Create a code block below and include a Java `for`-loop that prints numbers from 0 to 10. Be sure to indicate that it's Java, which will cause Java keywords to be highlighted (for example, depending on your configuration `for` may be purple in the preview window; `int` may be orange, etc.):***
 
-```javascript
-var i;
-for (i = 0;i <=10;i++){
-  print(i)
+```java
+for(int i=0;i<=10;i++) {
+  System.out.println(i);
 }
 ```
+
 
 ## Part 2: What is IoT
 
@@ -64,7 +64,22 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
+|Feature|Explanation|
+|---|---|
+|remote|Monitor an aging family member|
+|efficiency|Heat your home using phone|
+|detect|Using a device to track things|
+|Maintain quality|Using networked sensors, cameras, and lasers to analyze manufacturing processes |
+
+
+
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
+
+[Autonomous cruise control](https://en.wikipedia.org/wiki/Autonomous_cruise_control_system)(ACC; also called adaptive cruise control, radar cruise control, traffic-aware cruise control or dynamic radar cruise control) is an optional cruise control system for road vehicles that automatically adjusts the vehicle speed to maintain a safe distance from vehicles ahead.
+
+[Reconfigurable manufacturing system](https://en.wikipedia.org/wiki/Reconfigurable_manufacturing_system) is one designed at the outset for rapid change in its structure, as well as its hardware and software components, in order to quickly adjust its production capacity and functionality within a part family in response to sudden market changes or intrinsic system change. A schematic diagram of a RMS is shown below (Artist Rod Hill).
+
+
 
 ## Part 3: Comparing with Peers
 
@@ -72,4 +87,8 @@ Compare your previous work with other people in the class and try to come to a c
 
 ***Q7. Meet someone new.  Find a class member who you don't already know and introduce yourself.  Compare your work conclusions to the above IoT questions. Again, using a list indicate: 1) Who you worked with, and 2) Any discrepancies or interesting observations that arise from comparing your work:***
 
+Yifeng Guo
+
 ***Q8. Meet someone else new.  Find another class member who you don't already know and introduce your self.  Again compare your work as before:***
+
+CSL
